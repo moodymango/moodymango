@@ -4,11 +4,12 @@
 
   - 🔭 I’m currently working on Artsy Fartsy, an application empowering the everyday art enthusiast by encouraging users to make and share their own virtual exhibitions with artworks supplied by the Art Institute of Chicago's API.
     
-  - 🌱 I’m currently learning Java and SQL
+  - 🌱 I’m currently learning Java.
 
   - 😄 Pronouns: she/her
 
-  - ⚡ Fun fact: I used to work at South Florida's largest LGBTQ+ Archive and Library.
+  - ⚡ Fun fact: I used to work at South Florida's largest LGBTQ+ Archive and Library. Check out Stonewall National Museum and Archives if you're visiting SoFlo 🏳️‍🌈 ;)
+    
 ### Tech Stack 💻 
 <br>
 <div align="center">
